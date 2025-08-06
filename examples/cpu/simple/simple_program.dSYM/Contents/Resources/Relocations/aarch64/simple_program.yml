@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     simple_program
+relocations:
+  - { offset: 0xB9, size: 0x8, addend: 0x0, symName: _simple___un_3C_unf_3E_un_3C_unf_3E_uni, symObjAddr: 0x0, symBinAddr: 0x1000005F8, symSize: 0x158 }
+  - { offset: 0xEB, size: 0x8, addend: 0x0, symName: _simple___un_3C_unf_3E_un_3C_unf_3E_uni, symObjAddr: 0x0, symBinAddr: 0x1000005F8, symSize: 0x158 }
+  - { offset: 0xF3, size: 0x8, addend: 0x0, symName: _simple, symObjAddr: 0x158, symBinAddr: 0x100000750, symSize: 0x158 }
+  - { offset: 0x132, size: 0x8, addend: 0x0, symName: _simple___un_3C_unf_3E_un_3C_unf_3E_uni, symObjAddr: 0x0, symBinAddr: 0x1000005F8, symSize: 0x158 }
+  - { offset: 0x13A, size: 0x8, addend: 0x0, symName: _simple, symObjAddr: 0x158, symBinAddr: 0x100000750, symSize: 0x158 }
+  - { offset: 0x19B, size: 0x8, addend: 0x0, symName: _simple, symObjAddr: 0x158, symBinAddr: 0x100000750, symSize: 0x158 }
+  - { offset: 0x1DE, size: 0x8, addend: 0x0, symName: _simple, symObjAddr: 0x158, symBinAddr: 0x100000750, symSize: 0x158 }
+...
